@@ -39,6 +39,7 @@ export const AppHeader = () => {
         >
           <MenuItem>Home</MenuItem>
           <MenuItem>Reports</MenuItem>
+          <MenuItem>Create Month</MenuItem>
         </Menu>
       </Toolbar>
     </AppBar>
